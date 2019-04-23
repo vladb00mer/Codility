@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/FrogImp/FrogImp.iml" filepath="$PROJECT_DIR$/FrogImp/FrogImp.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewRakuten/NewRakuten.iml" filepath="$PROJECT_DIR$/NewRakuten/NewRakuten.iml" />
       <module fileurl="file://$PROJECT_DIR$/OddOccurrencesInArray/OddOccurrencesInArray.iml" filepath="$PROJECT_DIR$/OddOccurrencesInArray/OddOccurrencesInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermCheck/PermCheck.iml" filepath="$PROJECT_DIR$/PermCheck/PermCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/PermMissingElem/PermMissingElem.iml" filepath="$PROJECT_DIR$/PermMissingElem/PermMissingElem.iml" />
       <module fileurl="file://$PROJECT_DIR$/TapeEquilibrium/TapeEquilibrium.iml" filepath="$PROJECT_DIR$/TapeEquilibrium/TapeEquilibrium.iml" />
     </modules>
